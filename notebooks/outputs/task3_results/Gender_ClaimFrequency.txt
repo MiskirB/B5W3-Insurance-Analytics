@@ -1,0 +1,5 @@
+Test: Gender_ClaimFrequency
+Group A Mean: 0.00
+Group B Mean: 0.00
+p-value: 0.8372
+Conclusion: Fail to Reject H₀

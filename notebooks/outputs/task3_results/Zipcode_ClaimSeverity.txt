@@ -1,0 +1,5 @@
+Test: Zipcode_ClaimSeverity
+Group A Mean: nan
+Group B Mean: 17275.13
+p-value: nan
+Conclusion: Fail to Reject H₀
