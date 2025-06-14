@@ -1,0 +1,5 @@
+Test: Province Claim Frequency
+Gauteng Mean: 0.00
+Western Cape Mean: 0.00
+p-value: 0.0000
+Conclusion: Reject H₀

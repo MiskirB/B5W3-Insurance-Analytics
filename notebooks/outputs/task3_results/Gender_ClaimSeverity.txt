@@ -1,0 +1,5 @@
+Test: Gender_ClaimSeverity
+Group A Mean: 14858.55
+Group B Mean: 17874.72
+p-value: 0.5680
+Conclusion: Fail to Reject H₀

@@ -1,0 +1,5 @@
+Test: Province_ClaimSeverity
+Group A Mean: 22243.88
+Group B Mean: 28095.85
+p-value: 0.0306
+Conclusion: Reject H₀

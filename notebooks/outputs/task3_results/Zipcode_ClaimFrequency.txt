@@ -1,0 +1,5 @@
+Test: Zipcode_ClaimFrequency
+Group A Mean: 0.00
+Group B Mean: 0.00
+p-value: 0.3177
+Conclusion: Fail to Reject H₀

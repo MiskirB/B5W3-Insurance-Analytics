@@ -1,0 +1,5 @@
+Test: Zipcode_MarginDifference
+Group A Mean: 73.87
+Group B Mean: -4.69
+p-value: 0.0087
+Conclusion: Reject H₀

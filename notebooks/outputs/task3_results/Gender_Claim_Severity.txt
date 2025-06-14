@@ -1,0 +1,5 @@
+Test: Gender Claim Severity
+Male Mean: 14858.55
+Female Mean: 17874.72
+p-value: 0.5680
+Conclusion: Fail to Reject H₀

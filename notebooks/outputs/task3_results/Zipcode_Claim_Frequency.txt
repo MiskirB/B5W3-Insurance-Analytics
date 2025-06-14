@@ -1,0 +1,5 @@
+Test: Zipcode Claim Frequency
+1459 Mean: 0.00
+8001 Mean: 0.00
+p-value: 0.3177
+Conclusion: Fail to Reject H₀
