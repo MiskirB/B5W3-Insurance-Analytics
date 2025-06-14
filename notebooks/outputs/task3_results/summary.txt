@@ -1,0 +1,38 @@
+📊 Task 3 - Hypothesis Test Summary
+==================================================
+
+Province Claim Frequency
+ - Gauteng Mean: 0.00
+ - Western Cape Mean: 0.00
+ - p-value: 0.0000 ➜ Reject H₀
+--------------------------------------------------
+Province Claim Severity
+ - Gauteng Mean: 22243.88
+ - Western Cape Mean: 28095.85
+ - p-value: 0.0306 ➜ Reject H₀
+--------------------------------------------------
+Zipcode Claim Frequency
+ - 1459 Mean: 0.00
+ - 8001 Mean: 0.00
+ - p-value: 0.3177 ➜ Fail to Reject H₀
+--------------------------------------------------
+Zipcode Claim Severity
+ - 1459 Mean: nan
+ - 8001 Mean: 17275.13
+ - p-value: nan ➜ Fail to Reject H₀
+--------------------------------------------------
+Zipcode Margin Difference
+ - 1459 Mean: 73.87
+ - 8001 Mean: -4.69
+ - p-value: 0.0087 ➜ Reject H₀
+--------------------------------------------------
+Gender Claim Frequency
+ - Male Mean: 0.00
+ - Female Mean: 0.00
+ - p-value: 0.8372 ➜ Fail to Reject H₀
+--------------------------------------------------
+Gender Claim Severity
+ - Male Mean: 14858.55
+ - Female Mean: 17874.72
+ - p-value: 0.5680 ➜ Fail to Reject H₀
+--------------------------------------------------

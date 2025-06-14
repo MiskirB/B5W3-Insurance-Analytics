@@ -1,0 +1,5 @@
+Test: Zipcode Margin Difference
+1459 Mean: 73.87
+8001 Mean: -4.69
+p-value: 0.0087
+Conclusion: Reject H₀

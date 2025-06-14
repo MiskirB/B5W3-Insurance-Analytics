@@ -1,0 +1,5 @@
+Test: Province Claim Severity
+Gauteng Mean: 22243.88
+Western Cape Mean: 28095.85
+p-value: 0.0306
+Conclusion: Reject H₀

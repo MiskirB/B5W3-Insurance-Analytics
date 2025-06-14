@@ -1,0 +1,5 @@
+Test: Gender Claim Frequency
+Male Mean: 0.00
+Female Mean: 0.00
+p-value: 0.8372
+Conclusion: Fail to Reject H₀
