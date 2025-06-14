@@ -1,0 +1,64 @@
+✅ Preprocessing Summary for TotalClaims Severity Model
+============================================================
+Total rows after filtering: 2775
+Selected features: ['Province', 'VehicleType', 'RegistrationYear', 'make', 'SumInsured', 'CalculatedPremiumPerTerm']
+
+▶ Feature: Province
+Province
+Gauteng          1322
+KwaZulu-Natal     483
+Western Cape      357
+North West        349
+Mpumalanga        128
+Name: count, dtype: int64
+
+▶ Feature: VehicleType
+VehicleType
+Passenger Vehicle    2587
+Medium Commercial     158
+Heavy Commercial       21
+Light Commercial        8
+Bus                     1
+Name: count, dtype: int64
+
+▶ Feature: RegistrationYear
+count    2775.000000
+mean     2010.318919
+std         2.948412
+min      1996.000000
+25%      2008.000000
+50%      2011.000000
+75%      2013.000000
+max      2015.000000
+Name: RegistrationYear, dtype: float64
+
+▶ Feature: make
+make
+TOYOTA           2318
+MERCEDES-BENZ     128
+VOLKSWAGEN         61
+CMC                44
+AUDI               33
+Name: count, dtype: int64
+
+▶ Feature: SumInsured
+count      2775.000000
+mean     112154.656969
+std      130280.796960
+min           0.010000
+25%           0.010000
+50%       60000.000000
+75%      218000.000000
+max      547530.000000
+Name: SumInsured, dtype: float64
+
+▶ Feature: CalculatedPremiumPerTerm
+count    2775.000000
+mean      374.443691
+std       361.434294
+min         0.000000
+25%        25.000000
+50%       269.004800
+75%       687.291900
+max      1754.411800
+Name: CalculatedPremiumPerTerm, dtype: float64

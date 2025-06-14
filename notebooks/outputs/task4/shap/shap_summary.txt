@@ -1,0 +1,10 @@
+
+✅ SHAP Interpretability Summary
+===============================
+• Model: Random Forest
+• Dataset: First 100 rows
+• Features: ['Province', 'VehicleType', 'RegistrationYear', 'make', 'SumInsured', 'CalculatedPremiumPerTerm']
+
+Files saved:
+- SHAP Beeswarm: shap_beeswarm.png
+- SHAP Feature Importance: shap_feature_importance.png
